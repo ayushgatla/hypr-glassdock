@@ -1,4 +1,4 @@
-## Hypr-glassdock
+## Hypr-glassdock (cachy-dock)
 <img
   src="https://github.com/ayushgatla/hypr-glassdock/blob/main/image.png?raw=true"
   style="border-radius:1rem;width:100%;max-width:100%;"
@@ -61,7 +61,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Hypr-glassdock.git
+git clone https://github.com/ayushgatla/hypr-glassdock/
 cd Hypr-glassdock
 ```
 
