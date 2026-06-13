@@ -1,0 +1,11 @@
+# config.toml
+
+icon_size = 48
+spacing = 10
+
+apps = [
+    "firefox",
+    "kitty",
+    "steam",
+    "thunar"
+]

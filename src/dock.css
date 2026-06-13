@@ -1,0 +1,18 @@
+window {
+    background: rgba(20, 20, 30, 0.85);
+    border-radius: 20px;
+    border: 1px solid rgba(255,255,255,0.08);
+}
+
+button {
+    background: transparent;
+    border: none;
+    border-radius: 12px;
+    min-width: 56px;
+    min-height: 56px;
+    padding: 6px;
+}
+
+button:hover {
+    background: rgba(255,255,255,0.08);
+}
