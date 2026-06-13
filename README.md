@@ -1,6 +1,6 @@
 ## Hypr-glassdock
 <img
-  src="https://github.com/ayushgatla/hypr-glassdock/image.png"
+  src="https://github.com/ayushgatla/hypr-glassdock/blob/main/image.png?raw=true"
   style="border-radius:1rem;width:280px;max-width:100%;"
 />
 
