@@ -1,10 +1,12 @@
-Hypr-glassdock
+## Hypr-glassdock
+<img
+  src="https://raw.githubusercontent.com/ayushgatla/hypr-glassdock/image.png"
+  style="border-radius:1rem;width:280px;max-width:100%;"
+/>
 
 A lightweight, customizable application dock written in Rust for Linux desktop environments.
 
-Hypr-glassdock provides a clean launcher interface with support for native applications, Flatpak applications, custom icons, and CSS-based styling.
-
-![Screenshot](assets/screenshot.png)
+Hypr-glassdock provides a clean launcher interface with support for native applications, Flatpak applications, custom icon
 
 ## Features
 
