@@ -1,7 +1,7 @@
 ## Hypr-glassdock
 <img
   src="https://github.com/ayushgatla/hypr-glassdock/blob/main/image.png?raw=true"
-  style="border-radius:1rem;width:280px;max-width:100%;"
+  style="border-radius:1rem;width:100%;max-width:100%;"
 />
 
 A lightweight, customizable application dock written in Rust for Linux desktop environments.
